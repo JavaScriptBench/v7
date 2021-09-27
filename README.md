@@ -1,7 +1,25 @@
 V7: Embedded JavaScript engine
 ==============================
 
+
+==============================================================
+
 **NOTE: this project is deprecated in favor of https://github.com/cesanta/mjs**
+
+
+Just:
+```
+git clone https://github.com/JavaScriptBench/v7.git 
+cd v7
+git checkout 3.0
+make v7
+make examples
+./examples/call_c_from_js
+```
+
+
+
+================================================================
 
 [![License](https://img.shields.io/badge/license-GPL_2-green.svg)](https://github.com/cesanta/v7/blob/master/LICENSE)
 
